@@ -1,0 +1,5 @@
+/myapp/vendor
+/myapp/node_modules
+/myapp/Homestead.yaml
+/myapp/Homestead.json
+/myapp/.env
